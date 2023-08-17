@@ -1,0 +1,232 @@
+.rp-lubricantes-page .header.open-header .is-Fixed{position:fixed;top:0;left:0;right:0}
+@media(max-width:700px){.rp-lubricantes-page .header.open-header .is-Fixed{z-index:999}
+}
+@media(min-width:700px){.rp-lubricantes-page .header.open-header .is-Fixed .header-lub .header.icon-rp-Menu_02{display:none !important}
+}
+.header .isFixed{position:fixed;top:0;left:0;right:0;z-index:998}
+.header.header-complejos-industriales .header-top .icon-rp-Chat::before{content:"\e9cd"}
+.header.header-complejos-industriales .header-top .icon-rp-User::before{content:"\e913"}
+.header .country-item-JS .icon-rp-aling-check{margin-left:17px}
+.header .dropdown-countries-langs .dropdown-menu.show{display:inline-flex}
+.header .dropdown-countries-langs .dropdown-menu ::-webkit-scrollbar{width:8px}
+.header .dropdown-countries-langs .dropdown-menu ::-webkit-scrollbar-track{box-shadow:inset 0 0 8px lightgray;border-radius:10px}
+.header .dropdown-countries-langs .dropdown-menu ::-webkit-scrollbar-thumb{background:lightgray;border-radius:10px}
+.header .dropdown-countries-langs .dropdown-item-country-language{position:static;width:170px;height:auto;left:0;top:0;font-family:'Roboto-Regular';font-style:normal;font-weight:400;font-size:16px;line-height:24px;flex:none;order:0;flex-grow:0;display:flex;flex-direction:row;padding:1px 0;align-items:center;margin:0}
+.header .dropdown-countries-langs .dropdown-item-country-language::before{color:#464646}
+.header .dropdown-countries-langs .dropdown-item-country-language.selected{color:#016a7f !important}
+.header .dropdown-countries-langs .dropdown-item-country-language.selected .dropdown-item-country-language::after{color:#016a7f !important}
+.header .dropdown-countries-langs .dropdown-item-country-language.selected .icon-rp-aling-check::after{color:#016a7f !important;content:"\ea0d"}
+.header .dropdown-countries-langs .dropdown-item-country-language:active{color:#016a7f !important}
+.header .dropdown-countries-langs .dropdown-item-country-language:hover{color:#016a7f !important}
+.header .dropdown-countries-langs .dropdown-countries{height:262px;width:408px;left:790px;top:71px;border-radius:8px;padding:32px}
+.header .dropdown-countries-langs .dropdown-countries-container{height:100%;min-width:50%;margin-left:12px;margin-right:12px}
+.header .dropdown-countries-langs .dropdown-countries-list{overflow:auto;display:grid;overflow-x:hidden;max-height:70%;max-width:70%}
+.header .dropdown-countries-langs .dropdown-contries-background{display:flex;flex-direction:row;justify-content:center;align-items:center;padding:4px;position:static;width:79px;height:32px;left:0;top:0;background:#92d9e2;border-radius:8px;flex:none;order:1;align-self:stretch;flex-grow:0;margin:0 24px}
+.header .dropdown-countries-langs .dropdown-countries-title-bold-countryl{position:static;width:39px;height:38px;left:32px;top:32px;font-family:'Roboto-Regular';font-style:normal;font-weight:500;font-size:20px;line-height:32px;color:#000}
+.header .dropdown-countries-langs .dropdown-countries-title-bold-countryr{position:static;width:89px;height:38px;left:0;top:0;font-family:'Roboto-Regular';font-style:normal;font-weight:500;font-size:20px;line-height:32px;color:#000}
+.header .dropdown-countries-langs .rp-dropdown-countries{height:32px;width:79px;left:0;top:0;border-radius:8px;padding:4px}
+.header .dropdown-countries-langs .icon-rp-aling-countries{position:static;left:8.33%;right:8.33%;top:8.33%;bottom:8.33%;margin-left:5px;width:16px;height:16px;display:flex}
+.header .dropdown-countries-langs .icon-rp-aling-countries::after{content:"\e9cd";width:100%;height:100%;font-size:20px;margin-top:-3px;color:#016a7f}
+.header .dropdown-countries-langs .language-selected{position:static;width:17px;height:24px;left:26px;top:0;font-family:'Roboto-Regular';font-style:normal;font-weight:400;font-size:14px;line-height:24px;text-align:center;letter-spacing:.0025em;color:#016a7f}
+.isAuthor .header .isFixed{position:inherit}
+.modal-open header.isFixed{bottom:0}
+.rp-lubricantes-page .header .header-lub .border-header{border-bottom:none !important}
+.rp-lubricantes-page .header .header-lub .header-bottom{margin-bottom:-1px;border-top:2px solid #f8f8f8}
+.rp-lubricantes-page .dropdown-countries-container{max-width:90%}
+.rp-lubricantes-page .dropdown-countries-container .dropdown-countries-list a.dropdown-item-country-language{color:#464646}
+.rp-lubricantes-page .dropdown-countries-container .dropdown-countries-list a.dropdown-item-country-language:hover span.dropdown-item-country-language{cursor:pointer}
+.rp-lubricantes-page .dropdown-countries-container .dropdown-countries-list a.dropdown-item-country-language span.dropdown-item-country-language{text-transform:capitalize;width:45%}
+.rp-lubricantes-page .dropdown-countries-container:first-child .dropdown-countries-list{max-width:80%}
+@media(max-width:382px){.rp-lubricantes-page .header .header-lub .header-top .rp-lan-navigation+.rp-link-header{margin-right:inherit}
+}
+.rp-lubricantes-page .header .header-lub .header-top .icon-rp-Cross{display:none}
+.rp-lubricantes-page .header .header-lub .header-top .icon-rp-Search{margin-right:35px}
+@media(max-width:700px){.rp-lubricantes-page .header.open-header .header-lub .header-top .icon-rp-Cross{display:block}
+.rp-lubricantes-page .header.open-header .header-lub .header-top .icon-rp-Menu_02{display:none}
+.rp-lubricantes-page .header.open-header .header-lub .header-top .rp-link-header .text{display:block}
+}
+.header .border-header{border-bottom:solid 1px #ddd}
+.header .header-top{background-color:#fff;height:80px;padding-top:24px;padding-bottom:24px;display:flex;justify-content:space-between}
+@media(min-width:720px){.header .header-top{padding-left:24px;padding-right:24px}
+}
+@media(min-width:1024px){.header .header-top{padding-left:0;padding-right:0}
+}
+.header .header-top p{margin:0}
+.header .header-top .link-global{border-left:solid 1px #ddd;padding:0 12px;height:24px;margin-left:12px}
+.header .header-top .rp-link-header{display:flex;align-items:center;font-family:"Roboto-Regular";font-style:normal;font-weight:normal;font-size:16px;line-height:24px;text-align:center;color:#016a7f;cursor:pointer}
+.header .header-top .rp-link-header .text{display:none}
+@media(min-width:720px){.header .header-top .rp-link-header .text{display:block}
+}
+.header .header-top .rp-link-header:hover{color:#00404d}
+.header .header-top .rp-link-header:active{color:#00adc3}
+.header .header-top .rp-link-header.logged-in{margin-right:10px}
+@media(min-width:720px){.header .header-top .rp-link-header.logged-in .text{display:none}
+}
+.header .header-top .rp-link-header.rp-login-pt{padding:8px 16px}
+.header .header-top .rp-lan-navigation+.rp-link-header{margin-right:40px}
+.header .header-top .icon-rp{margin-right:10px;font-size:24px;cursor:pointer}
+.header .header-top .icon-rp-Menu_02{margin-right:0}
+.header .header-top .icon-rp-Menu_02,.header .header-top .icon-rp-Search{display:block}
+@media(min-width:720px){.header .header-top .icon-rp-Menu_02,.header .header-top .icon-rp-Search{display:none}
+}
+.header .header-top .icon-rp-Menu_02.icon-rp-search-pt,.header .header-top .icon-rp-Search.icon-rp-search-pt{display:block !important}
+.header .header-top .block-static{display:flex;align-items:center;justify-content:space-between}
+@media(max-width:720px){.header .header-top .block-static{display:none;background-color:#fff;position:fixed;bottom:0;left:0;right:0;z-index:999;padding:16px;box-shadow:0 -4px 11px rgba(0,0,0,0.08);border-top:solid 1px #ddd;opacity:0;-webkit-transition:all 1s ease-out;-moz-transition:all 1s ease-out;-o-transition:all 1s ease-out;transition:all 1s ease-out}
+}
+.header .header-top .rp-logo img{width:109px;height:24px;object-fit:contain}
+@media(min-width:720px){.header .header-top .rp-logo img{width:151px;height:32px}
+}
+.header .header-top .rp-language{margin-right:40px}
+.header .header-top .rp-language.dropdown-menu{min-width:120px}
+.header.open-header .block-static{display:flex;opacity:1}
+body.header-transparent{padding-top:0 !important}
+.header .header-transparent{background-color:transparent}
+.header .header-transparent *{color:white}
+.header .header-transparent .icon-rp,.header .header-transparent .rp-dropdown .dropdown-toggle:after{color:white}
+.header .header-transparent .dropdown-item div{color:initial}
+.header .header-transparent .border-header{border:0}
+.header .header-transparent .header-top,.header .header-transparent .header-bottom .menu-l,.header .header-transparent .header-bottom .menu-m,.header .header-transparent .header-bottom .block-menu,.header .header-transparent .header-bottom .block-menu .block-bg{background-color:transparent;border:0}
+.header .header-transparent .header-bottom .head-item.head-1[aria-expanded="true"]{border-color:white}
+@media(max-width:1350px){.header .header-transparent .header-bottom .block-menu.collapsing{background-color:white}
+}
+.dropdown-user .dropdown-toggle{border:0;padding:0;background:transparent;color:#016a7f}
+.dropdown-user .dropdown-toggle:focus{outline:0}
+.dropdown-user .dropdown-toggle .welcome{display:none}
+@media(min-width:720px){.dropdown-user .dropdown-toggle .welcome{display:inline-block;margin-right:5px}
+}
+.dropdown-user .dropdown-toggle .user{display:none}
+@media(min-width:720px){.dropdown-user .dropdown-toggle .user{display:inline-block}
+}
+.dropdown-user .dropdown-menu{overflow:hidden}
+.dropdown-user-pt .dropdown-toggle .user{display:flex}
+.floating-input-sol .component-title,.floating-input-sol .component-description{display:none}
+@media(max-width:720px){.floating-input-sol .component-title,.floating-input-sol .component-description{display:none !important}
+}
+.floating-input-sol .component-title.active,.floating-input-sol .component-description.active{display:block}
+@media(max-width:720px){.rp-lubricantes-page .header-bottom .block-menu{min-height:100vh}
+.rp-lubricantes-page .header-bottom .block-menu .rp-navigation{margin-top:100px}
+.rp-lubricantes-page .header-bottom .block-menu .block-header-close{display:none}
+}
+@media(min-width:1350px){header .header-bottom{background-color:transparent;position:relative}
+}
+header .header-bottom .block-menu{position:absolute;top:0;right:0;left:0;bottom:0;z-index:998;overflow:auto;background-color:#f8f8f8;padding-bottom:57px}
+header .header-bottom .block-menu::-webkit-scrollbar{width:4px}
+header .header-bottom .block-menu::-webkit-scrollbar-track{background:transparent}
+header .header-bottom .block-menu::-webkit-scrollbar-thumb{background:#c4c4c4;border-radius:3px}
+header .header-bottom .block-menu::-webkit-scrollbar-thumb:hover{background:#c4c4c4}
+@media(min-width:720px){header .header-bottom .block-menu{background-color:#fff;padding-bottom:0}
+}
+@media(min-width:1350px){header .header-bottom .block-menu{top:57px;overflow:inherit}
+header .header-bottom .block-menu .block-bg{background:linear-gradient(90deg,#fff 0,#fff 25%,#f8f8f8 25%,#f8f8f8 100%);box-shadow:0 8px 32px -16px rgba(0,0,0,0.08);border-bottom:solid 1px #ddd}
+}
+header .header-bottom .container.content-m{position:relative}
+@media(max-width:720px){header .header-bottom .container.content-m{margin-right:auto;margin-left:auto;width:100%}
+}
+@media(min-width:1350px){header .header-bottom .container.content-m{background:linear-gradient(90deg,#fff 0,#fff 25%,#f8f8f8 25%,#f8f8f8 100%)}
+}
+header .header-bottom .rp-navigation{position:relative}
+header .header-bottom .icon-rp{color:#016a7f;font-size:20px;cursor:pointer}
+header .header-bottom .icon-rp-pt{color:#016a7f;font-size:24px;margin-right:10px;cursor:pointer}
+header .header-bottom .menu-m{display:none;background-color:#fff;border-bottom:solid 1px #ddd;padding-top:18px;padding-bottom:18px}
+header .header-bottom .menu-m .block-container{display:flex;align-items:center;justify-content:space-between}
+@media(min-width:720px){header .header-bottom .menu-m{padding-left:30px;padding-right:30px;display:block}
+}
+@media(min-width:1350px){header .header-bottom .menu-m{display:none}
+}
+header .header-bottom .menu-l{display:none;background-color:#fff;border-bottom:solid 1px #ddd}
+header .header-bottom .menu-l .block-container{display:flex;align-items:center;justify-content:space-between}
+header .header-bottom .menu-l .block-container .rp-navigation{display:flex;align-items:center;margin-left:-12px}
+header .header-bottom .menu-l .head-item{text-align:center;padding:16px 0;border-radius:8px;color:#757575}
+header .header-bottom .menu-l .head-item .icon-collapse{display:none}
+header .header-bottom .menu-l .head-item:hover,header .header-bottom .menu-l .head-item[aria-expanded='true']{background-color:transparent}
+header .header-bottom .menu-l .head-item a{padding:8px 12px}
+header .header-bottom .menu-l .head-item.active{background-color:transparent}
+header .header-bottom .menu-l .head-item.active a{background-color:#f2f2f2;color:#464646;border-radius:8px}
+header .header-bottom .menu-l .head-item.active:hover a{color:#016a7f}
+@media(min-width:1350px){header .header-bottom .menu-l{display:block}
+header .header-bottom .menu-l .head-item.head-1{display:block}
+}
+header .header-bottom .head-1{font-family:"Roboto-Medium";font-weight:500;font-size:18px;line-height:24px}
+@media(min-width:720px){header .header-bottom .head-1{font-family:"Roboto-Medium";font-weight:500;font-size:16px;line-height:24px}
+}
+@media(min-width:1350px){header .header-bottom .head-1{font-family:"Roboto-Regular";font-weight:400;font-size:16px;line-height:24px}
+}
+header .header-bottom .head-2{font-family:"Roboto-Regular";font-weight:400;font-size:16px;line-height:24px}
+header .header-bottom .head-3{font-family:"Roboto-Regular";font-weight:400;font-size:14px;line-height:24px;color:#757575}
+@media(min-width:720px){header .header-bottom .head-3{font-family:"Roboto-Regular";font-weight:400;font-size:16px;line-height:24px}
+}
+@media(min-width:1350px){header .header-bottom .head-3{color:#464646}
+}
+header .header-bottom .block-header-close{padding:18px;text-align:right}
+@media(min-width:720px){header .header-bottom .block-header-close{text-align:left;padding:34px 18px}
+}
+@media(min-width:1350px){header .header-bottom .block-header-close{display:none}
+}
+header .header-bottom .head-item{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:solid 1px #ddd;cursor:pointer}
+header .header-bottom .head-item:last-child{border-bottom:0}
+header .header-bottom .head-item[aria-expanded='false'] .icon-collapse:after{content:"\e904"}
+header .header-bottom .head-item[aria-expanded='true'] .icon-collapse:after{content:"\e909"}
+header .header-bottom .head-item .icon-collapse:after{font-family:"icomoon";font-size:20px;border:0;color:#016a7f}
+header .header-bottom .head-item .icon-rp-Arrow_down:before{display:none}
+header .header-bottom .head-item.head-3{border-bottom:0;padding:6px 20px}
+@media(min-width:720px){header .header-bottom .head-item{padding:10px 24px;border-bottom:0;border-right:solid 1px #ddd}
+header .header-bottom .head-item[aria-expanded='false'] .icon-collapse:after,header .header-bottom .head-item[aria-expanded='true'] .icon-collapse:after{content:"\e908"}
+header .header-bottom .head-item:hover,header .header-bottom .head-item.active,header .header-bottom .head-item[aria-expanded='true']{background-color:#f8f8f8;color:#016a7f}
+header .header-bottom .head-item.head-1{width:33%}
+header .header-bottom .head-item.head-3{border-right:0;padding:10px 24px}
+}
+@media(min-width:1350px){header .header-bottom .head-item.head-1{display:none;width:auto;border:0;margin:0 12px}
+header .header-bottom .head-item.head-1[aria-expanded='true']{border-bottom:solid 4px #016a7f;border-radius:0;padding:16px 0 13px 0;margin-bottom:-1px;-webkit-transition:all .1s ease-out;-moz-transition:all .1s ease-out;-o-transition:all .1s ease-out;transition:all .1s ease-out}
+header .header-bottom .head-item.head-1 a{padding:8px 0}
+header .header-bottom .head-item.head-1.active a{padding:8px 12px}
+header .header-bottom .head-item.head-2{border-right:0}
+}
+header .header-bottom .content-item-2{background-color:#fff}
+@media(min-width:720px){header .header-bottom .content-item-2{background-color:transparent;position:absolute;top:0;left:33%;right:0}
+header .header-bottom .content-item-2 .head-item{width:50%}
+}
+@media(min-width:1350px){header .header-bottom .content-item-2{position:inherit;left:0}
+header .header-bottom .content-item-2 .nivel-2{width:25%}
+header .header-bottom .content-item-2 .head-2{width:100%}
+header .header-bottom .content-item-2 .block-nivel-2{display:flex;justify-content:space-between}
+}
+@media(min-width:720px){header .header-bottom .content-item-3{position:absolute;top:0;left:50%;right:0}
+header .header-bottom .content-item-3 .head-item{width:100%}
+}
+@media(min-width:1350px){header .header-bottom .content-item-3{left:25%}
+}
+header .header-bottom .menu-xl{display:none}
+@media(min-width:1350px){header .header-bottom .menu-xl{display:block}
+}
+header .header-bottom .menu-xl .block-container-xl{display:flex;align-items:strech}
+header .header-bottom .menu-xl .block-container-xl .block-col-xl{width:33.3%}
+header .header-bottom .menu-xl .head-item .head-1{background-color:#fff}
+header .header-bottom .menu-xl .nivel-2{height:100%;padding-top:15px;padding-bottom:15px;background-color:#fff;border-right:solid 1px #ddd}
+header .header-bottom .menu-xl .nivel-3{padding-top:15px;padding-bottom:15px}
+.rp-lubricantes-page header .border-header .header-top,.rp-lubricantes-page header .lubricantes-nav .container.block-container{max-width:1248px}
+.rp-lubricantes-page header .menu-l .container{padding:0}
+.rp-lubricantes-page header .menu-l .container .head-item .icon-collapse{display:inline-block;vertical-align:middle}
+.rp-lubricantes-page header .menu-l .container .head-item .icon-collapse::after{content:'\e904'}
+.rp-lubricantes-page header .menu-l .container .head-item a{color:#464646}
+.rp-lubricantes-page header .menu-l .container .head-item.active a{font-weight:600;color:#464646}
+.rp-lubricantes-page header .menu-l .container .head-item:hover,.rp-lubricantes-page header .menu-l .container .head-item[aria-expanded='true']{z-index:999}
+.rp-lubricantes-page header .menu-l .container .head-item.head-1[aria-controls="header-0-xl"]>a{pointer-events:none;cursor:default}
+.rp-lubricantes-page header .block-menu .header-child .nivel-2 .head-item a,.rp-lubricantes-page header .block-menu .header-child .block-col-xl .nivel-3 .head-item .head-3-link-com{color:#464646;text-decoration:none}
+.rp-lubricantes-page header .block-menu .block-bg .head-1[aria-controls="header-0"]>a{pointer-events:none;cursor:default}
+.rp-lubricantes-page .breadcrumb-repsol .container{padding:0}
+.rp-lubricantes-page .breadcrumb-repsol .container .cmp-breadcrumb__list .cmp-breadcrumb__item a span{color:#727272}
+.rp-lubricantes-page .breadcrumb-repsol .head-item.head-1[aria-controls="header-0-xl"]>a{pointer-events:none;cursor:default}
+@media(min-width:1350px){header .header-bottom .list-imgs{padding-top:28px;padding-bottom:28px}
+header .header-bottom .list-imgs .block-advice{width:100%;height:400px;border-radius:8px;overflow:hidden;opacity:0;-webkit-transition:opacity .5s ease-out;-moz-transition:opacity .5s ease-out;-o-transition:opacity .5s ease-out;transition:opacity .5s ease-out}
+header .header-bottom .list-imgs .block-advice.show{opacity:1}
+}
+header .header-bottom .content-img{display:none;align-items:flex-end;width:100%;height:100%;border-radius:8px;overflow:hidden}
+header .header-bottom .content-img:before{content:" ";position:absolute;top:0;right:0;bottom:0;background-color:#ffc800;width:96px;z-index:2}
+header .header-bottom .content-img:after{content:" ";position:absolute;top:0;right:0;bottom:0;width:72px;background-color:#ff6200;display:block;z-index:2}
+header .header-bottom .content-img .bg-image{position:absolute;top:0;left:0;right:0;bottom:0}
+header .header-bottom .content-img .rp-btn{min-width:48px;min-height:48px;font-size:18px}
+header .header-bottom .content-img p{color:#fff;margin-bottom:0}
+header .header-bottom .content-img .block-text{z-index:3;padding:16px 12px 16px 16px;display:flex;align-items:flex-end;justify-content:space-between;width:100%}
+header .header-bottom .content-img .block-text .padding-right{padding-right:30px}
+@media(min-width:1350px){header .header-bottom .content-img{display:flex}
+}
