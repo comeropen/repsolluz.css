@@ -1,0 +1,37 @@
+[data-has-anchor]{scroll-margin-top:100px}
+.mode-edit-components{text-align:center;color:gray;border-color:rgba(128,128,128,0.5);background-color:rgba(255,255,255,0.75);border-style:solid;border-width:.125rem;margin:-0.125rem;padding:20px}
+.rp-description a{color:#016a7f;text-decoration:underline}
+.rp-description a:hover{opacity:.75}
+.rp-description a:active{opacity:.5}
+.rp-description a:focus{color:#016a7f}
+.rp-description a:disabled{opacity:.3}
+.cmp-information__item-taxonomy .icon{color:#016a7f !important}
+.modular-content-podcast-video .height-custom-card,.modular-content-podcast .height-custom-card{min-height:527px !important}
+.modular-content-podcast-orange .height-custom-card{min-height:527px !important}
+.modular-content-info-box .height-custom-card .block-top{min-height:527px !important}
+.modular-content-info-box .height-custom-card .block-top .cmp-information__item.hasLink{min-height:220px !important}
+.modular-content-info-box .height-custom-card .block-top .cmp-quotation__item{min-height:272px !important}
+.modular-content-featured.col-md-4 .height-custom-card .rp-card-component{height:527px}
+.modular-content-featured.col-md-4 .height-custom-card .rp-card-component .block-top{width:100% !important}
+.modular-content-featured.col-md-4 .height-custom-card .rp-card-component .block-top .bg-image{height:152px !important}
+.modular-content-featured.col-md-4 .height-custom-card .rp-card-component .container-texts .block-info .rp-title-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-4 .height-custom-card .rp-card-component .container-texts .block-info .rp-body-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-6 .height-custom-card .rp-card-component{height:527px}
+.modular-content-featured.col-md-6 .height-custom-card .rp-card-component .block-top{width:100% !important}
+.modular-content-featured.col-md-6 .height-custom-card .rp-card-component .block-top .bg-image{height:160px !important}
+.modular-content-featured.col-md-6 .height-custom-card .rp-card-component .container-texts .block-info .rp-title-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:2;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-6 .height-custom-card .rp-card-component .container-texts .block-info .rp-body-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:4;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-8 .height-custom-card .rp-card-component{height:527px !important}
+.modular-content-featured.col-md-8 .height-custom-card .rp-card-component .block-top{width:28% !important}
+.modular-content-featured.col-md-8 .height-custom-card .rp-card-component .block-top .bg-image{height:527px !important}
+.modular-content-featured.col-md-8 .height-custom-card .rp-card-component .container-texts .block-info .rp-title-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-8 .height-custom-card .rp-card-component .container-texts .block-info .rp-body-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:4;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-12 .height-custom-card .rp-card-component{height:527px !important}
+.modular-content-featured.col-md-12 .height-custom-card .rp-card-component .block-top{width:33% !important}
+@media(max-width:1024px){.modular-content-featured.col-md-12 .height-custom-card .rp-card-component .block-top{width:28% !important}
+}
+.modular-content-featured.col-md-12 .height-custom-card .rp-card-component .block-top .bg-image{height:527px !important}
+.modular-content-featured.col-md-12 .height-custom-card .rp-card-component .container-texts .block-info .rp-title-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical}
+.modular-content-featured.col-md-12 .height-custom-card .rp-card-component .container-texts .block-info .rp-body-1{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:4;display:-webkit-box;-webkit-box-orient:vertical}
+.page{background-color:#fff}
+.page .xfpage footer:not(.footer-guia){background-color:#fff}
